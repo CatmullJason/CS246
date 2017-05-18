@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="edit_book">Book</string>
+    <string name="edit_chapter">Chapter</string>
+    <string name="edit_verse">Verse</string>
+</resources>
