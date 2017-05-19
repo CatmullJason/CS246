@@ -5,4 +5,6 @@
     <string name="edit_book">Book</string>
     <string name="edit_chapter">Chapter</string>
     <string name="edit_verse">Verse</string>
+    <string name="load_scripture">Load Scripture</string>
+    <string name="save_scripture">Save Scripture</string>
 </resources>
